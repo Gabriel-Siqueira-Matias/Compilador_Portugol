@@ -8,7 +8,7 @@ Ele foi desenvolvido como parte da disciplina de Compiladores, com base na espec
 ## 📘 Estrutura do Projeto
 
 ```
-Portugol_Compiler/
+Compilador_Portugol/
 ├── GramaticaPortugol.g4         # Gramática ANTLR da linguagem Portugol
 ├── run_portugol.py              # Programa principal (lexer + parser + AST)
 ├── analisador.log               # Log gerado automaticamente com os erros
@@ -49,8 +49,8 @@ O compilador é composto por três partes principais:
 ### 1️⃣ Clone o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/Portugol_Compiler.git
-cd Portugol_Compiler
+git clone https://github.com/Gabriel-Siqueira-Matias/Compilador_Portugol.git
+cd Compilador_Portugol
 ```
 
 ### 2️⃣ Instale as dependências
