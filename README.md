@@ -146,6 +146,7 @@ Projeto desenvolvido por:
 * Krystyan Douglas Santos Costa
 
 Disciplina: **Compiladores – Professor Ed Wilson Tavares Ferreira**
+
 Instituição: **Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso – Campus Cuiabá – Coronel Octayde Jorge da Silva**
 Ano: **2025**
 
