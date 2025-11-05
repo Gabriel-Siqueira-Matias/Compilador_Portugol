@@ -87,7 +87,7 @@ python run_portugol.py exemplos/pascal.ptg
 ## 📜 Exemplo de Execução
 
 ```bash
-python run_portugol.py exemplos/triangulo.bas
+python run_portugol.py exemplos/triangulo.ptg
 ```
 
 Saída esperada:
