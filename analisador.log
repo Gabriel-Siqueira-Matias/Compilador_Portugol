@@ -1,0 +1,6 @@
+=== TOKENS ===
+<CARACTER, '<EOF>', Linha 23, Coluna 0>
+
+=== ANÁLISE SINTÁTICA ===
+Código sintaticamente correto ✅
+AST gerada → ast_portugol.png ✅

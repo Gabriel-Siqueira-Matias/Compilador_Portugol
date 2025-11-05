@@ -1,0 +1,22 @@
+programa {
+    funcao inicio() {
+        inteiro n, i, j, k
+        escreva("Digite o número de linhas: ")
+        leia(n)
+
+        se (n < 1) entao {
+            escreva("Erro: n deve ser maior ou igual a 1.")
+        } senao {
+            i = 1
+            enquanto (i <= n) faca {
+                j = 1
+                enquanto (j <= i) faca {
+                    escreva(j, " ")
+                    j = j + 1
+                }
+                escreva("\n")
+                i = i + 1
+            }
+        }
+    }
+}
