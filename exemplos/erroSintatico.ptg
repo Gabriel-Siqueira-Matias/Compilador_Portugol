@@ -2,7 +2,7 @@ programa {
     funcao inicio() {
         inteiro a
         leia(a)
-        se(a>1 e a<3) entao
+        se(a>1 e a<3) ento
         {
             escreva(a+1)
         }
