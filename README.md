@@ -94,9 +94,8 @@ Saída esperada:
 
 ```
 === TOKENS ===
-<PROGRAMA, 'programa', Linha 1, Coluna 0>
-<FUNCAO, 'funcao', Linha 2, Coluna 4>
-...
+<CARACTER, '<EOF>', Linha 26, Coluna 0>
+
 === ANÁLISE SINTÁTICA ===
 Código sintaticamente correto ✅
 AST gerada → ast_portugol.png ✅
