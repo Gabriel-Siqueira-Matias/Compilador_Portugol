@@ -10,7 +10,7 @@ else:
 
 def serializedATN():
     return [
-        4,1,38,202,2,0,7,0,2,1,7,1,2,2,7,2,2,3,7,3,2,4,7,4,2,5,7,5,2,6,7,
+        4,1,38,203,2,0,7,0,2,1,7,1,2,2,7,2,2,3,7,3,2,4,7,4,2,5,7,5,2,6,7,
         6,2,7,7,7,2,8,7,8,2,9,7,9,2,10,7,10,2,11,7,11,2,12,7,12,2,13,7,13,
         2,14,7,14,2,15,7,15,2,16,7,16,2,17,7,17,2,18,7,18,2,19,7,19,2,20,
         7,20,2,21,7,21,2,22,7,22,1,0,1,0,1,0,1,0,1,0,1,0,1,1,1,1,1,1,1,1,
@@ -21,37 +21,37 @@ def serializedATN():
         9,1,9,1,10,1,10,1,10,1,10,1,10,5,10,118,8,10,10,10,12,10,121,9,10,
         1,10,1,10,1,11,1,11,1,11,1,11,1,11,1,11,1,11,1,11,1,11,3,11,134,
         8,11,1,12,1,12,1,12,1,12,1,12,1,12,3,12,142,8,12,1,13,1,13,1,13,
-        1,13,1,13,1,13,1,13,1,13,1,13,1,14,1,14,3,14,155,8,14,1,15,1,15,
-        1,15,5,15,160,8,15,10,15,12,15,163,9,15,1,16,1,16,1,16,5,16,168,
-        8,16,10,16,12,16,171,9,16,1,17,1,17,1,17,1,17,1,17,1,17,3,17,179,
-        8,17,1,18,1,18,1,18,5,18,184,8,18,10,18,12,18,187,9,18,1,19,1,19,
-        1,19,1,19,1,20,1,20,1,21,3,21,196,8,21,1,21,1,21,1,22,1,22,1,22,
-        0,0,23,0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,
-        42,44,0,7,1,0,10,13,1,0,21,22,1,0,23,24,1,0,25,26,1,0,27,32,1,0,
-        33,34,1,0,35,36,197,0,46,1,0,0,0,2,52,1,0,0,0,4,64,1,0,0,0,6,67,
-        1,0,0,0,8,76,1,0,0,0,10,81,1,0,0,0,12,86,1,0,0,0,14,94,1,0,0,0,16,
-        96,1,0,0,0,18,100,1,0,0,0,20,112,1,0,0,0,22,124,1,0,0,0,24,135,1,
-        0,0,0,26,143,1,0,0,0,28,154,1,0,0,0,30,156,1,0,0,0,32,164,1,0,0,
-        0,34,178,1,0,0,0,36,180,1,0,0,0,38,188,1,0,0,0,40,192,1,0,0,0,42,
-        195,1,0,0,0,44,199,1,0,0,0,46,47,5,1,0,0,47,48,5,2,0,0,48,49,3,2,
-        1,0,49,50,5,3,0,0,50,51,5,0,0,1,51,1,1,0,0,0,52,53,5,4,0,0,53,54,
-        5,5,0,0,54,55,5,6,0,0,55,56,5,7,0,0,56,57,5,2,0,0,57,58,3,4,2,0,
-        58,59,3,12,6,0,59,60,5,3,0,0,60,3,1,0,0,0,61,63,3,6,3,0,62,61,1,
-        0,0,0,63,66,1,0,0,0,64,62,1,0,0,0,64,65,1,0,0,0,65,5,1,0,0,0,66,
-        64,1,0,0,0,67,68,3,10,5,0,68,73,3,8,4,0,69,70,5,8,0,0,70,72,3,8,
-        4,0,71,69,1,0,0,0,72,75,1,0,0,0,73,71,1,0,0,0,73,74,1,0,0,0,74,7,
-        1,0,0,0,75,73,1,0,0,0,76,79,5,37,0,0,77,78,5,9,0,0,78,80,3,28,14,
-        0,79,77,1,0,0,0,79,80,1,0,0,0,80,9,1,0,0,0,81,82,7,0,0,0,82,11,1,
-        0,0,0,83,85,3,14,7,0,84,83,1,0,0,0,85,88,1,0,0,0,86,84,1,0,0,0,86,
-        87,1,0,0,0,87,13,1,0,0,0,88,86,1,0,0,0,89,95,3,16,8,0,90,95,3,18,
-        9,0,91,95,3,20,10,0,92,95,3,22,11,0,93,95,3,26,13,0,94,89,1,0,0,
-        0,94,90,1,0,0,0,94,91,1,0,0,0,94,92,1,0,0,0,94,93,1,0,0,0,95,15,
-        1,0,0,0,96,97,5,37,0,0,97,98,5,9,0,0,98,99,3,28,14,0,99,17,1,0,0,
-        0,100,101,5,14,0,0,101,102,5,6,0,0,102,107,3,28,14,0,103,104,5,8,
-        0,0,104,106,3,28,14,0,105,103,1,0,0,0,106,109,1,0,0,0,107,105,1,
-        0,0,0,107,108,1,0,0,0,108,110,1,0,0,0,109,107,1,0,0,0,110,111,5,
-        7,0,0,111,19,1,0,0,0,112,113,5,15,0,0,113,114,5,6,0,0,114,119,5,
-        37,0,0,115,116,5,8,0,0,116,118,5,37,0,0,117,115,1,0,0,0,118,121,
+        1,13,1,13,1,13,1,13,1,13,1,13,1,14,1,14,1,14,3,14,156,8,14,1,15,
+        1,15,1,15,5,15,161,8,15,10,15,12,15,164,9,15,1,16,1,16,1,16,5,16,
+        169,8,16,10,16,12,16,172,9,16,1,17,1,17,1,17,1,17,1,17,1,17,3,17,
+        180,8,17,1,18,1,18,1,18,5,18,185,8,18,10,18,12,18,188,9,18,1,19,
+        1,19,1,19,1,19,1,20,1,20,1,21,3,21,197,8,21,1,21,1,21,1,22,1,22,
+        1,22,0,0,23,0,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,
+        38,40,42,44,0,7,1,0,10,13,1,0,21,22,1,0,23,24,1,0,25,26,1,0,27,32,
+        1,0,33,34,1,0,35,36,199,0,46,1,0,0,0,2,52,1,0,0,0,4,64,1,0,0,0,6,
+        67,1,0,0,0,8,76,1,0,0,0,10,81,1,0,0,0,12,86,1,0,0,0,14,94,1,0,0,
+        0,16,96,1,0,0,0,18,100,1,0,0,0,20,112,1,0,0,0,22,124,1,0,0,0,24,
+        135,1,0,0,0,26,143,1,0,0,0,28,155,1,0,0,0,30,157,1,0,0,0,32,165,
+        1,0,0,0,34,179,1,0,0,0,36,181,1,0,0,0,38,189,1,0,0,0,40,193,1,0,
+        0,0,42,196,1,0,0,0,44,200,1,0,0,0,46,47,5,1,0,0,47,48,5,2,0,0,48,
+        49,3,2,1,0,49,50,5,3,0,0,50,51,5,0,0,1,51,1,1,0,0,0,52,53,5,4,0,
+        0,53,54,5,5,0,0,54,55,5,6,0,0,55,56,5,7,0,0,56,57,5,2,0,0,57,58,
+        3,4,2,0,58,59,3,12,6,0,59,60,5,3,0,0,60,3,1,0,0,0,61,63,3,6,3,0,
+        62,61,1,0,0,0,63,66,1,0,0,0,64,62,1,0,0,0,64,65,1,0,0,0,65,5,1,0,
+        0,0,66,64,1,0,0,0,67,68,3,10,5,0,68,73,3,8,4,0,69,70,5,8,0,0,70,
+        72,3,8,4,0,71,69,1,0,0,0,72,75,1,0,0,0,73,71,1,0,0,0,73,74,1,0,0,
+        0,74,7,1,0,0,0,75,73,1,0,0,0,76,79,5,37,0,0,77,78,5,9,0,0,78,80,
+        3,28,14,0,79,77,1,0,0,0,79,80,1,0,0,0,80,9,1,0,0,0,81,82,7,0,0,0,
+        82,11,1,0,0,0,83,85,3,14,7,0,84,83,1,0,0,0,85,88,1,0,0,0,86,84,1,
+        0,0,0,86,87,1,0,0,0,87,13,1,0,0,0,88,86,1,0,0,0,89,95,3,16,8,0,90,
+        95,3,18,9,0,91,95,3,20,10,0,92,95,3,22,11,0,93,95,3,26,13,0,94,89,
+        1,0,0,0,94,90,1,0,0,0,94,91,1,0,0,0,94,92,1,0,0,0,94,93,1,0,0,0,
+        95,15,1,0,0,0,96,97,5,37,0,0,97,98,5,9,0,0,98,99,3,28,14,0,99,17,
+        1,0,0,0,100,101,5,14,0,0,101,102,5,6,0,0,102,107,3,28,14,0,103,104,
+        5,8,0,0,104,106,3,28,14,0,105,103,1,0,0,0,106,109,1,0,0,0,107,105,
+        1,0,0,0,107,108,1,0,0,0,108,110,1,0,0,0,109,107,1,0,0,0,110,111,
+        5,7,0,0,111,19,1,0,0,0,112,113,5,15,0,0,113,114,5,6,0,0,114,119,
+        5,37,0,0,115,116,5,8,0,0,116,118,5,37,0,0,117,115,1,0,0,0,118,121,
         1,0,0,0,119,117,1,0,0,0,119,120,1,0,0,0,120,122,1,0,0,0,121,119,
         1,0,0,0,122,123,5,7,0,0,123,21,1,0,0,0,124,125,5,16,0,0,125,126,
         5,6,0,0,126,127,3,36,18,0,127,128,5,7,0,0,128,129,5,17,0,0,129,130,
@@ -61,21 +61,22 @@ def serializedATN():
         3,22,11,0,141,136,1,0,0,0,141,140,1,0,0,0,142,25,1,0,0,0,143,144,
         5,19,0,0,144,145,5,6,0,0,145,146,3,36,18,0,146,147,5,7,0,0,147,148,
         5,20,0,0,148,149,5,2,0,0,149,150,3,12,6,0,150,151,5,3,0,0,151,27,
-        1,0,0,0,152,155,3,44,22,0,153,155,3,30,15,0,154,152,1,0,0,0,154,
-        153,1,0,0,0,155,29,1,0,0,0,156,161,3,32,16,0,157,158,7,1,0,0,158,
-        160,3,32,16,0,159,157,1,0,0,0,160,163,1,0,0,0,161,159,1,0,0,0,161,
-        162,1,0,0,0,162,31,1,0,0,0,163,161,1,0,0,0,164,169,3,34,17,0,165,
-        166,7,2,0,0,166,168,3,34,17,0,167,165,1,0,0,0,168,171,1,0,0,0,169,
-        167,1,0,0,0,169,170,1,0,0,0,170,33,1,0,0,0,171,169,1,0,0,0,172,173,
-        5,6,0,0,173,174,3,30,15,0,174,175,5,7,0,0,175,179,1,0,0,0,176,179,
-        3,42,21,0,177,179,5,37,0,0,178,172,1,0,0,0,178,176,1,0,0,0,178,177,
-        1,0,0,0,179,35,1,0,0,0,180,185,3,38,19,0,181,182,7,3,0,0,182,184,
-        3,38,19,0,183,181,1,0,0,0,184,187,1,0,0,0,185,183,1,0,0,0,185,186,
-        1,0,0,0,186,37,1,0,0,0,187,185,1,0,0,0,188,189,3,30,15,0,189,190,
-        3,40,20,0,190,191,3,30,15,0,191,39,1,0,0,0,192,193,7,4,0,0,193,41,
-        1,0,0,0,194,196,5,22,0,0,195,194,1,0,0,0,195,196,1,0,0,0,196,197,
-        1,0,0,0,197,198,7,5,0,0,198,43,1,0,0,0,199,200,7,6,0,0,200,45,1,
-        0,0,0,15,64,73,79,86,94,107,119,133,141,154,161,169,178,185,195
+        1,0,0,0,152,156,3,44,22,0,153,156,5,37,0,0,154,156,3,30,15,0,155,
+        152,1,0,0,0,155,153,1,0,0,0,155,154,1,0,0,0,156,29,1,0,0,0,157,162,
+        3,32,16,0,158,159,7,1,0,0,159,161,3,32,16,0,160,158,1,0,0,0,161,
+        164,1,0,0,0,162,160,1,0,0,0,162,163,1,0,0,0,163,31,1,0,0,0,164,162,
+        1,0,0,0,165,170,3,34,17,0,166,167,7,2,0,0,167,169,3,34,17,0,168,
+        166,1,0,0,0,169,172,1,0,0,0,170,168,1,0,0,0,170,171,1,0,0,0,171,
+        33,1,0,0,0,172,170,1,0,0,0,173,174,5,6,0,0,174,175,3,30,15,0,175,
+        176,5,7,0,0,176,180,1,0,0,0,177,180,3,42,21,0,178,180,5,37,0,0,179,
+        173,1,0,0,0,179,177,1,0,0,0,179,178,1,0,0,0,180,35,1,0,0,0,181,186,
+        3,38,19,0,182,183,7,3,0,0,183,185,3,38,19,0,184,182,1,0,0,0,185,
+        188,1,0,0,0,186,184,1,0,0,0,186,187,1,0,0,0,187,37,1,0,0,0,188,186,
+        1,0,0,0,189,190,3,30,15,0,190,191,3,40,20,0,191,192,3,30,15,0,192,
+        39,1,0,0,0,193,194,7,4,0,0,194,41,1,0,0,0,195,197,5,22,0,0,196,195,
+        1,0,0,0,196,197,1,0,0,0,197,198,1,0,0,0,198,199,7,5,0,0,199,43,1,
+        0,0,0,200,201,7,6,0,0,201,45,1,0,0,0,15,64,73,79,86,94,107,119,133,
+        141,155,162,170,179,186,196
     ]
 
 class GramaticaPortugolParser ( Parser ):
@@ -211,6 +212,12 @@ class GramaticaPortugolParser ( Parser ):
             if hasattr( listener, "exitPrograma" ):
                 listener.exitPrograma(self)
 
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitPrograma" ):
+                return visitor.visitPrograma(self)
+            else:
+                return visitor.visitChildren(self)
+
 
 
 
@@ -264,6 +271,12 @@ class GramaticaPortugolParser ( Parser ):
         def exitRule(self, listener:ParseTreeListener):
             if hasattr( listener, "exitInicio" ):
                 listener.exitInicio(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitInicio" ):
+                return visitor.visitInicio(self)
+            else:
+                return visitor.visitChildren(self)
 
 
 
@@ -324,6 +337,12 @@ class GramaticaPortugolParser ( Parser ):
             if hasattr( listener, "exitDeclaracoes" ):
                 listener.exitDeclaracoes(self)
 
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitDeclaracoes" ):
+                return visitor.visitDeclaracoes(self)
+            else:
+                return visitor.visitChildren(self)
+
 
 
 
@@ -381,6 +400,12 @@ class GramaticaPortugolParser ( Parser ):
         def exitRule(self, listener:ParseTreeListener):
             if hasattr( listener, "exitDeclara" ):
                 listener.exitDeclara(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitDeclara" ):
+                return visitor.visitDeclara(self)
+            else:
+                return visitor.visitChildren(self)
 
 
 
@@ -442,6 +467,12 @@ class GramaticaPortugolParser ( Parser ):
             if hasattr( listener, "exitDado_declara" ):
                 listener.exitDado_declara(self)
 
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitDado_declara" ):
+                return visitor.visitDado_declara(self)
+            else:
+                return visitor.visitChildren(self)
+
 
 
 
@@ -491,6 +522,12 @@ class GramaticaPortugolParser ( Parser ):
         def exitRule(self, listener:ParseTreeListener):
             if hasattr( listener, "exitTipo" ):
                 listener.exitTipo(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitTipo" ):
+                return visitor.visitTipo(self)
+            else:
+                return visitor.visitChildren(self)
 
 
 
@@ -542,6 +579,12 @@ class GramaticaPortugolParser ( Parser ):
         def exitRule(self, listener:ParseTreeListener):
             if hasattr( listener, "exitComandos" ):
                 listener.exitComandos(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitComandos" ):
+                return visitor.visitComandos(self)
+            else:
+                return visitor.visitChildren(self)
 
 
 
@@ -609,6 +652,12 @@ class GramaticaPortugolParser ( Parser ):
         def exitRule(self, listener:ParseTreeListener):
             if hasattr( listener, "exitComando" ):
                 listener.exitComando(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitComando" ):
+                return visitor.visitComando(self)
+            else:
+                return visitor.visitChildren(self)
 
 
 
@@ -683,6 +732,12 @@ class GramaticaPortugolParser ( Parser ):
             if hasattr( listener, "exitAtribui" ):
                 listener.exitAtribui(self)
 
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitAtribui" ):
+                return visitor.visitAtribui(self)
+            else:
+                return visitor.visitChildren(self)
+
 
 
 
@@ -731,6 +786,12 @@ class GramaticaPortugolParser ( Parser ):
         def exitRule(self, listener:ParseTreeListener):
             if hasattr( listener, "exitEscreva" ):
                 listener.exitEscreva(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitEscreva" ):
+                return visitor.visitEscreva(self)
+            else:
+                return visitor.visitChildren(self)
 
 
 
@@ -794,6 +855,12 @@ class GramaticaPortugolParser ( Parser ):
         def exitRule(self, listener:ParseTreeListener):
             if hasattr( listener, "exitLeia" ):
                 listener.exitLeia(self)
+
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitLeia" ):
+                return visitor.visitLeia(self)
+            else:
+                return visitor.visitChildren(self)
 
 
 
@@ -864,6 +931,12 @@ class GramaticaPortugolParser ( Parser ):
             if hasattr( listener, "exitSe" ):
                 listener.exitSe(self)
 
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitSe" ):
+                return visitor.visitSe(self)
+            else:
+                return visitor.visitChildren(self)
+
 
 
 
@@ -933,6 +1006,12 @@ class GramaticaPortugolParser ( Parser ):
             if hasattr( listener, "exitSenao" ):
                 listener.exitSenao(self)
 
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitSenao" ):
+                return visitor.visitSenao(self)
+            else:
+                return visitor.visitChildren(self)
+
 
 
 
@@ -997,6 +1076,12 @@ class GramaticaPortugolParser ( Parser ):
             if hasattr( listener, "exitEnquanto" ):
                 listener.exitEnquanto(self)
 
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitEnquanto" ):
+                return visitor.visitEnquanto(self)
+            else:
+                return visitor.visitChildren(self)
+
 
 
 
@@ -1042,6 +1127,9 @@ class GramaticaPortugolParser ( Parser ):
             return self.getTypedRuleContext(GramaticaPortugolParser.TextosContext,0)
 
 
+        def VARIAVEL(self):
+            return self.getToken(GramaticaPortugolParser.VARIAVEL, 0)
+
         def expressao_aritmetica(self):
             return self.getTypedRuleContext(GramaticaPortugolParser.Expressao_aritmeticaContext,0)
 
@@ -1057,6 +1145,12 @@ class GramaticaPortugolParser ( Parser ):
             if hasattr( listener, "exitDado" ):
                 listener.exitDado(self)
 
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitDado" ):
+                return visitor.visitDado(self)
+            else:
+                return visitor.visitChildren(self)
+
 
 
 
@@ -1065,21 +1159,27 @@ class GramaticaPortugolParser ( Parser ):
         localctx = GramaticaPortugolParser.DadoContext(self, self._ctx, self.state)
         self.enterRule(localctx, 28, self.RULE_dado)
         try:
-            self.state = 154
+            self.state = 155
             self._errHandler.sync(self)
-            token = self._input.LA(1)
-            if token in [35, 36]:
+            la_ = self._interp.adaptivePredict(self._input,9,self._ctx)
+            if la_ == 1:
                 self.enterOuterAlt(localctx, 1)
                 self.state = 152
                 self.textos()
                 pass
-            elif token in [6, 22, 33, 34, 37]:
+
+            elif la_ == 2:
                 self.enterOuterAlt(localctx, 2)
                 self.state = 153
+                self.match(GramaticaPortugolParser.VARIAVEL)
+                pass
+
+            elif la_ == 3:
+                self.enterOuterAlt(localctx, 3)
+                self.state = 154
                 self.expressao_aritmetica()
                 pass
-            else:
-                raise NoViableAltException(self)
+
 
         except RecognitionException as re:
             localctx.exception = re
@@ -1115,6 +1215,12 @@ class GramaticaPortugolParser ( Parser ):
             if hasattr( listener, "exitExpressao_aritmetica" ):
                 listener.exitExpressao_aritmetica(self)
 
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitExpressao_aritmetica" ):
+                return visitor.visitExpressao_aritmetica(self)
+            else:
+                return visitor.visitChildren(self)
+
 
 
 
@@ -1125,22 +1231,22 @@ class GramaticaPortugolParser ( Parser ):
         self._la = 0 # Token type
         try:
             self.enterOuterAlt(localctx, 1)
-            self.state = 156
+            self.state = 157
             self.termo_aritmetico()
-            self.state = 161
+            self.state = 162
             self._errHandler.sync(self)
             _la = self._input.LA(1)
             while _la==21 or _la==22:
-                self.state = 157
+                self.state = 158
                 _la = self._input.LA(1)
                 if not(_la==21 or _la==22):
                     self._errHandler.recoverInline(self)
                 else:
                     self._errHandler.reportMatch(self)
                     self.consume()
-                self.state = 158
+                self.state = 159
                 self.termo_aritmetico()
-                self.state = 163
+                self.state = 164
                 self._errHandler.sync(self)
                 _la = self._input.LA(1)
 
@@ -1178,6 +1284,12 @@ class GramaticaPortugolParser ( Parser ):
             if hasattr( listener, "exitTermo_aritmetico" ):
                 listener.exitTermo_aritmetico(self)
 
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitTermo_aritmetico" ):
+                return visitor.visitTermo_aritmetico(self)
+            else:
+                return visitor.visitChildren(self)
+
 
 
 
@@ -1188,22 +1300,22 @@ class GramaticaPortugolParser ( Parser ):
         self._la = 0 # Token type
         try:
             self.enterOuterAlt(localctx, 1)
-            self.state = 164
+            self.state = 165
             self.fator_aritmetico()
-            self.state = 169
+            self.state = 170
             self._errHandler.sync(self)
             _la = self._input.LA(1)
             while _la==23 or _la==24:
-                self.state = 165
+                self.state = 166
                 _la = self._input.LA(1)
                 if not(_la==23 or _la==24):
                     self._errHandler.recoverInline(self)
                 else:
                     self._errHandler.reportMatch(self)
                     self.consume()
-                self.state = 166
+                self.state = 167
                 self.fator_aritmetico()
-                self.state = 171
+                self.state = 172
                 self._errHandler.sync(self)
                 _la = self._input.LA(1)
 
@@ -1245,6 +1357,12 @@ class GramaticaPortugolParser ( Parser ):
             if hasattr( listener, "exitFator_aritmetico" ):
                 listener.exitFator_aritmetico(self)
 
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitFator_aritmetico" ):
+                return visitor.visitFator_aritmetico(self)
+            else:
+                return visitor.visitChildren(self)
+
 
 
 
@@ -1253,26 +1371,26 @@ class GramaticaPortugolParser ( Parser ):
         localctx = GramaticaPortugolParser.Fator_aritmeticoContext(self, self._ctx, self.state)
         self.enterRule(localctx, 34, self.RULE_fator_aritmetico)
         try:
-            self.state = 178
+            self.state = 179
             self._errHandler.sync(self)
             token = self._input.LA(1)
             if token in [6]:
                 self.enterOuterAlt(localctx, 1)
-                self.state = 172
-                self.match(GramaticaPortugolParser.T__5)
                 self.state = 173
-                self.expressao_aritmetica()
+                self.match(GramaticaPortugolParser.T__5)
                 self.state = 174
+                self.expressao_aritmetica()
+                self.state = 175
                 self.match(GramaticaPortugolParser.T__6)
                 pass
             elif token in [22, 33, 34]:
                 self.enterOuterAlt(localctx, 2)
-                self.state = 176
+                self.state = 177
                 self.numerais()
                 pass
             elif token in [37]:
                 self.enterOuterAlt(localctx, 3)
-                self.state = 177
+                self.state = 178
                 self.match(GramaticaPortugolParser.VARIAVEL)
                 pass
             else:
@@ -1312,6 +1430,12 @@ class GramaticaPortugolParser ( Parser ):
             if hasattr( listener, "exitExpressao_logica" ):
                 listener.exitExpressao_logica(self)
 
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitExpressao_logica" ):
+                return visitor.visitExpressao_logica(self)
+            else:
+                return visitor.visitChildren(self)
+
 
 
 
@@ -1322,22 +1446,22 @@ class GramaticaPortugolParser ( Parser ):
         self._la = 0 # Token type
         try:
             self.enterOuterAlt(localctx, 1)
-            self.state = 180
+            self.state = 181
             self.expressao_relacional()
-            self.state = 185
+            self.state = 186
             self._errHandler.sync(self)
             _la = self._input.LA(1)
             while _la==25 or _la==26:
-                self.state = 181
+                self.state = 182
                 _la = self._input.LA(1)
                 if not(_la==25 or _la==26):
                     self._errHandler.recoverInline(self)
                 else:
                     self._errHandler.reportMatch(self)
                     self.consume()
-                self.state = 182
+                self.state = 183
                 self.expressao_relacional()
-                self.state = 187
+                self.state = 188
                 self._errHandler.sync(self)
                 _la = self._input.LA(1)
 
@@ -1379,6 +1503,12 @@ class GramaticaPortugolParser ( Parser ):
             if hasattr( listener, "exitExpressao_relacional" ):
                 listener.exitExpressao_relacional(self)
 
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitExpressao_relacional" ):
+                return visitor.visitExpressao_relacional(self)
+            else:
+                return visitor.visitChildren(self)
+
 
 
 
@@ -1388,11 +1518,11 @@ class GramaticaPortugolParser ( Parser ):
         self.enterRule(localctx, 38, self.RULE_expressao_relacional)
         try:
             self.enterOuterAlt(localctx, 1)
-            self.state = 188
-            self.expressao_aritmetica()
             self.state = 189
-            self.operador_relacional()
+            self.expressao_aritmetica()
             self.state = 190
+            self.operador_relacional()
+            self.state = 191
             self.expressao_aritmetica()
         except RecognitionException as re:
             localctx.exception = re
@@ -1422,6 +1552,12 @@ class GramaticaPortugolParser ( Parser ):
             if hasattr( listener, "exitOperador_relacional" ):
                 listener.exitOperador_relacional(self)
 
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitOperador_relacional" ):
+                return visitor.visitOperador_relacional(self)
+            else:
+                return visitor.visitChildren(self)
+
 
 
 
@@ -1432,7 +1568,7 @@ class GramaticaPortugolParser ( Parser ):
         self._la = 0 # Token type
         try:
             self.enterOuterAlt(localctx, 1)
-            self.state = 192
+            self.state = 193
             _la = self._input.LA(1)
             if not((((_la) & ~0x3f) == 0 and ((1 << _la) & 8455716864) != 0)):
                 self._errHandler.recoverInline(self)
@@ -1472,6 +1608,12 @@ class GramaticaPortugolParser ( Parser ):
             if hasattr( listener, "exitNumerais" ):
                 listener.exitNumerais(self)
 
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitNumerais" ):
+                return visitor.visitNumerais(self)
+            else:
+                return visitor.visitChildren(self)
+
 
 
 
@@ -1482,15 +1624,15 @@ class GramaticaPortugolParser ( Parser ):
         self._la = 0 # Token type
         try:
             self.enterOuterAlt(localctx, 1)
-            self.state = 195
+            self.state = 196
             self._errHandler.sync(self)
             _la = self._input.LA(1)
             if _la==22:
-                self.state = 194
+                self.state = 195
                 self.match(GramaticaPortugolParser.T__21)
 
 
-            self.state = 197
+            self.state = 198
             _la = self._input.LA(1)
             if not(_la==33 or _la==34):
                 self._errHandler.recoverInline(self)
@@ -1530,6 +1672,12 @@ class GramaticaPortugolParser ( Parser ):
             if hasattr( listener, "exitTextos" ):
                 listener.exitTextos(self)
 
+        def accept(self, visitor:ParseTreeVisitor):
+            if hasattr( visitor, "visitTextos" ):
+                return visitor.visitTextos(self)
+            else:
+                return visitor.visitChildren(self)
+
 
 
 
@@ -1540,7 +1688,7 @@ class GramaticaPortugolParser ( Parser ):
         self._la = 0 # Token type
         try:
             self.enterOuterAlt(localctx, 1)
-            self.state = 199
+            self.state = 200
             _la = self._input.LA(1)
             if not(_la==35 or _la==36):
                 self._errHandler.recoverInline(self)

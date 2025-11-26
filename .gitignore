@@ -1,2 +1,4 @@
 venv/
-ast_portugol.png
+gerados/ast_portugol.png
+gerados/output.py
+gerados/analisador.log

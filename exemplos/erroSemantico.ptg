@@ -1,8 +1,7 @@
 programa {
     funcao inicio() {
-        inteiro a
-        leia(a)
-        se(a>1) ento
+        inteiro a="bola"
+        se(a>1) entao
         {
             escreva(a+1)
         }

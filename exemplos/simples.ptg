@@ -1,0 +1,17 @@
+programa {
+    funcao inicio() {
+        inteiro idade
+        cadeia nome
+        real altura
+        caracter letraFavorita
+        escreva("Olá, qual seu nome?\n")
+        leia(nome)
+        escreva("Olá ",nome,", qual sua idade?\n")
+        leia(idade)
+        escreva("Olá ",nome," que tem ",idade," anos, qual sua altura em m?\n")
+        leia(altura)
+        escreva("Olá ",nome," que tem ",idade," anos e ",altura," m de altura, qual sua letra favorita?\n")
+        leia(letraFavorita)
+        escreva("Adeus ",nome," que tem ",idade," anos, altura de ",altura," e cujo a letra favorita é ",letraFavorita)
+    }
+}

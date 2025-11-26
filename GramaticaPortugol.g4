@@ -76,6 +76,7 @@ enquanto
 
 dado
     : textos
+    | VARIAVEL
     | expressao_aritmetica
     ;
 
