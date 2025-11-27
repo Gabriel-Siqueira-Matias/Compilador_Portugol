@@ -1,11 +1,11 @@
 # 🧩 Compilador Portugol – Análise Léxica, Sintática, Semântica e Geração de Código Python
 
 Este projeto implementa um **compilador completo** para uma linguagem inspirada no **Portugol**, utilizando **ANTLR 4** e **Python 3**, incluindo as etapas:
-✔ Análise Léxica
-✔ Análise Sintática
-✔ Geração da AST (Árvore Sintática Abstrata)
-✔ Análise Semântica
-✔ Geração de Código Python
+* ✔ Análise Léxica
+* ✔ Análise Sintática
+* ✔ Geração da AST (Árvore Sintática Abstrata)
+* ✔ Análise Semântica
+* ✔ Geração de Código Python
 Ele foi desenvolvido como parte da disciplina de Compiladores, com base na especificação fornecida pelo professor.
 
 ---
@@ -166,7 +166,7 @@ programa
   Exemplo: símbolo `$` ou número inválido.
 * **Erro Sintático:** detectado durante a análise da estrutura do código.
   Exemplo: `se (a>1) ento { ... }`.
-  * **Erro Sintático:** detectado pelo analisador semântico.
+* **Erro Sintático:** detectado pelo analisador semântico.
   Exemplo: `inteiro a="bola"`.
 
 Os erros são registrados em:
