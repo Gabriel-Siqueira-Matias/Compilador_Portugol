@@ -31,7 +31,6 @@ class CodeGenerator(GramaticaPortugolVisitor):
     # --------------------------
 
     def expr_to_str(self, ctx):
-        """Converte expressões Portugol → Python corretamente."""
         if ctx is None:
             return ""
         parts = []
