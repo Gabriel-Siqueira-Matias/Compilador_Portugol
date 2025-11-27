@@ -6,6 +6,7 @@ Este projeto implementa um **compilador completo** para uma linguagem inspirada 
 * ✔ Geração da AST (Árvore Sintática Abstrata)
 * ✔ Análise Semântica
 * ✔ Geração de Código Python
+
 Ele foi desenvolvido como parte da disciplina de Compiladores, com base na especificação fornecida pelo professor.
 
 ---
